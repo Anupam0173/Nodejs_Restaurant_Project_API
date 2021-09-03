@@ -1,6 +1,6 @@
 # Nodejs_Restaurant_Project_API
 
-****************************Restaurant API***************
+# -------Restaurant API----------
 
 http://127.0.0.1:3003/restaurant---------------list all restaurants    (get)
 
@@ -31,8 +31,7 @@ http://127.0.0.1:3003/product/6130b5e46b79d7900906b96d           ---------------
 }
 
 
-
-*********************product related API*********************
+# ------------product related API------------
 
 http://127.0.0.1:3003/product---------------->Create a restaurant product   (post)
 Data will be passed as a form-data
